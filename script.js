@@ -1,5 +1,6 @@
 console.log("Portfolio script.js loaded successfully!");
 // Loading Screen Logic
+<!-- update -->
 const initLoader = () => {
     const loader = document.getElementById("loader");
     const mainContent = document.getElementById("main-content");
